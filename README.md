@@ -1,5 +1,5 @@
 # MLNetTutorial
 Microsoft ML.Net Tutorial
 
-Tutorial Available At
+Tutorial available at
 https://dotnet.microsoft.com/learn/ml-dotnet/get-started-tutorial/intro
